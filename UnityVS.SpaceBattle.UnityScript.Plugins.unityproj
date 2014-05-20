@@ -77,6 +77,7 @@
     <Compile Include="Assets\Standard Assets\Image Effects (Pro Only)\Tonemapping.js" />
     <Compile Include="Assets\Standard Assets\Image Effects (Pro Only)\Triangles.js" />
     <Compile Include="Assets\Standard Assets\Image Effects (Pro Only)\Vignetting.js" />
+    <Compile Include="Assets\Standard Assets\Scripts\Camera Scripts\SmoothFollow.js" />
     <None Include="Assets\default.txt" />
     <None Include="Assets\flocking.txt" />
     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\DLAA.shader" />
@@ -162,6 +163,8 @@
     <Folder Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares" />
     <Folder Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField" />
     <Folder Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\Contrast Stretch" />
+    <Folder Include="Assets\Standard Assets\Scripts" />
+    <Folder Include="Assets\Standard Assets\Scripts\Camera Scripts" />
     <Folder Include="Assets\Textures" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2013\UnityVS.UnityScript.targets" />

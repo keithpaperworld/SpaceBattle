@@ -72,6 +72,10 @@
       <Project>{9D6FEAE5-5801-E0EE-48F1-6865DE10FEE4}</Project>
       <Name>UnityVS.SpaceBattle.CSharp.Plugins</Name>
     </ProjectReference>
+    <ProjectReference Include="UnityVS.SpaceBattle.UnityScript.unityproj">
+      <Project>{DFF0A237-E8CB-97BA-7707-705D169A919D}</Project>
+      <Name>UnityVS.SpaceBattle.UnityScript</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Editor\Image Effects\AntialiasingAsPostEffectEditor.js" />
