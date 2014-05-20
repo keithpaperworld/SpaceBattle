@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{1FAC5C55-277D-4884-94A4-83DBDAF57E56}") = "UnityVS.SpaceBattle.UnityScript.Plugins", "UnityVS.SpaceBattle.UnityScript.Plugins.unityproj", "{1BC10505-BFB9-3258-07C7-0EFCED45A91A}"
+EndProject
+Project("{1FAC5C55-277D-4884-94A4-83DBDAF57E56}") = "UnityVS.SpaceBattle.UnityScript.Editor", "UnityVS.SpaceBattle.UnityScript.Editor.unityproj", "{07A97BB1-9756-2D7F-72ED-3C6E560A09FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.SpaceBattle.CSharp", "UnityVS.SpaceBattle.CSharp.csproj", "{9B655CE8-0434-D4BD-B282-BDA30FED19A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.SpaceBattle.CSharp.Plugins", "UnityVS.SpaceBattle.CSharp.Plugins.csproj", "{9D6FEAE5-5801-E0EE-48F1-6865DE10FEE4}"
+EndProject
+Project("{1FAC5C55-277D-4884-94A4-83DBDAF57E56}") = "UnityVS.SpaceBattle.UnityScript", "UnityVS.SpaceBattle.UnityScript.unityproj", "{DFF0A237-E8CB-97BA-7707-705D169A919D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BC10505-BFB9-3258-07C7-0EFCED45A91A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC10505-BFB9-3258-07C7-0EFCED45A91A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC10505-BFB9-3258-07C7-0EFCED45A91A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC10505-BFB9-3258-07C7-0EFCED45A91A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A97BB1-9756-2D7F-72ED-3C6E560A09FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A97BB1-9756-2D7F-72ED-3C6E560A09FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A97BB1-9756-2D7F-72ED-3C6E560A09FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A97BB1-9756-2D7F-72ED-3C6E560A09FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B655CE8-0434-D4BD-B282-BDA30FED19A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B655CE8-0434-D4BD-B282-BDA30FED19A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B655CE8-0434-D4BD-B282-BDA30FED19A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B655CE8-0434-D4BD-B282-BDA30FED19A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D6FEAE5-5801-E0EE-48F1-6865DE10FEE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D6FEAE5-5801-E0EE-48F1-6865DE10FEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D6FEAE5-5801-E0EE-48F1-6865DE10FEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D6FEAE5-5801-E0EE-48F1-6865DE10FEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF0A237-E8CB-97BA-7707-705D169A919D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF0A237-E8CB-97BA-7707-705D169A919D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF0A237-E8CB-97BA-7707-705D169A919D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF0A237-E8CB-97BA-7707-705D169A919D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

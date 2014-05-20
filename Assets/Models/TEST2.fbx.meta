@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: c58f569c08e98904cbaf7132159c8f6f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cube
+    100002: engines
+    100004: engines_MeshPart0
+    100006: engines_MeshPart1
+    100008: engines_MeshPart2
+    100010: fueselage
+    100012: landing_poles
+    100014: laser_body
+    100016: laser_head
+    100018: main_hull
+    100020: nose
+    100022: //RootNode
+    100024: thruster_nozzles
+    100026: thruster_nozzles_MeshPart0
+    100028: thruster_nozzles_MeshPart1
+    100030: turret_fairings
+    400000: Cube
+    400002: engines
+    400004: engines_MeshPart0
+    400006: engines_MeshPart1
+    400008: engines_MeshPart2
+    400010: fueselage
+    400012: landing_poles
+    400014: laser_body
+    400016: laser_head
+    400018: main_hull
+    400020: nose
+    400022: //RootNode
+    400024: thruster_nozzles
+    400026: thruster_nozzles_MeshPart0
+    400028: thruster_nozzles_MeshPart1
+    400030: turret_fairings
+    2300000: Cube
+    2300002: engines_MeshPart0
+    2300004: engines_MeshPart1
+    2300006: engines_MeshPart2
+    2300008: fueselage
+    2300010: landing_poles
+    2300012: laser_body
+    2300014: laser_head
+    2300016: main_hull
+    2300018: nose
+    2300020: thruster_nozzles_MeshPart0
+    2300022: thruster_nozzles_MeshPart1
+    2300024: turret_fairings
+    3300000: Cube
+    3300002: engines_MeshPart0
+    3300004: engines_MeshPart1
+    3300006: engines_MeshPart2
+    3300008: fueselage
+    3300010: landing_poles
+    3300012: laser_body
+    3300014: laser_head
+    3300016: main_hull
+    3300018: nose
+    3300020: thruster_nozzles_MeshPart0
+    3300022: thruster_nozzles_MeshPart1
+    3300024: turret_fairings
+    4300000: engines_MeshPart0
+    4300002: engines_MeshPart1
+    4300004: engines_MeshPart2
+    4300006: nose
+    4300008: laser_body
+    4300010: main_hull
+    4300012: thruster_nozzles_MeshPart0
+    4300014: thruster_nozzles_MeshPart1
+    4300016: landing_poles
+    4300018: laser_head
+    4300020: turret_fairings
+    4300022: fueselage
+    4300024: Cube
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
